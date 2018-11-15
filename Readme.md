@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [UserControl1.ascx](./CS/WebSite/UserControl1.ascx) (VB: [UserControl1.ascx](./VB/WebSite/UserControl1.ascx))
+* [UserControl1.ascx.cs](./CS/WebSite/UserControl1.ascx.cs) (VB: [UserControl1.ascx](./VB/WebSite/UserControl1.ascx))
+* [UserControl2.ascx](./CS/WebSite/UserControl2.ascx) (VB: [UserControl2.ascx](./VB/WebSite/UserControl2.ascx))
+* [UserControl2.ascx.cs](./CS/WebSite/UserControl2.ascx.cs) (VB: [UserControl2.ascx](./VB/WebSite/UserControl2.ascx))
+<!-- default file list end -->
 # How to load usercontrols via a callback in ASPxPopupControl
 
 
