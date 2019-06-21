@@ -9,6 +9,9 @@
 * [UserControl2.ascx.cs](./CS/WebSite/UserControl2.ascx.cs) (VB: [UserControl2.ascx.vb](./VB/WebSite/UserControl2.ascx.vb))
 <!-- default file list end -->
 # How to load usercontrols via a callback in ASPxPopupControl
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e346/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to load usercontrols via a callback in ASPxPopupControl.<br />
