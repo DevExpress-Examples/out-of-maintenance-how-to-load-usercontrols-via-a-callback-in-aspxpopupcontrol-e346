@@ -1,5 +1,5 @@
 <%@ Control Language="vb" AutoEventWireup="true" CodeFile="UserControl2.ascx.vb" Inherits="ASPxperience_PopupControl_HowToLoadUserControlViaCallback_UserControl2" %>
-<%@ Register Assembly="DevExpress.Web.v13.1" Namespace="DevExpress.Web.ASPxEditors"
+<%@ Register Assembly="DevExpress.Web.v15.1" Namespace="DevExpress.Web"
 	TagPrefix="dxe" %>
 <table cellpadding="0" cellspacing="0" style="width: 100%;">
 	<tr>
